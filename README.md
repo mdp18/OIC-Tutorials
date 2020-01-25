@@ -10,7 +10,8 @@ This tutorial assumes you have been able to spin up an instance of Oracle Integr
 
 ## Create a Mock API in Apiary
 ###### Step 1 - Sign up
-Sign up with Apiary with Github or email. Website URL:https://www.apiary.io/
+Sign up with Apiary with Github or email at the following link: https://www.apiary.io/
+
 ###### Step 2 - Start with the test project
 
 
